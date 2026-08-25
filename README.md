@@ -9,12 +9,14 @@
 | [0049-group-anagrams](https://github.com/vtu28692-dot/Problem-Solving-and-Testing-week-2/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vtu28692-dot/Problem-Solving-and-Testing-week-2/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/vtu28692-dot/Problem-Solving-and-Testing-week-2/tree/master/0347-top-k-frequent-elements) |
+| [0946-validate-stack-sequences](https://github.com/vtu28692-dot/Problem-Solving-and-Testing-week-2/tree/master/0946-validate-stack-sequences) |
 | [1470-shuffle-the-array](https://github.com/vtu28692-dot/Problem-Solving-and-Testing-week-2/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/vtu28692-dot/Problem-Solving-and-Testing-week-2/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/vtu28692-dot/Problem-Solving-and-Testing-week-2/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/vtu28692-dot/Problem-Solving-and-Testing-week-2/tree/master/0946-validate-stack-sequences) |
 | [1920-build-array-from-permutation](https://github.com/vtu28692-dot/Problem-Solving-and-Testing-week-2/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vtu28692-dot/Problem-Solving-and-Testing-week-2/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/vtu28692-dot/Problem-Solving-and-Testing-week-2/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
