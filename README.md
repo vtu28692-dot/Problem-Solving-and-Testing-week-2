@@ -69,5 +69,10 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/vtu28692-dot/Problem-Solving-and-Testing-week-2/tree/master/0155-min-stack) |
 | [0946-validate-stack-sequences](https://github.com/vtu28692-dot/Problem-Solving-and-Testing-week-2/tree/master/0946-validate-stack-sequences) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vtu28692-dot/Problem-Solving-and-Testing-week-2/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
